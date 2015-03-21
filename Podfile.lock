@@ -1,0 +1,25 @@
+PODS:
+  - FXForms (1.2.12)
+  - ObjectiveSugar (HEAD based on 1.1.0)
+  - PureLayout (2.0.5)
+  - ReactiveCocoa (2.4.7):
+    - ReactiveCocoa/UI (= 2.4.7)
+  - ReactiveCocoa/Core (2.4.7):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.7)
+  - ReactiveCocoa/UI (2.4.7):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - FXForms (~> 1.2.12)
+  - ObjectiveSugar (HEAD)
+  - PureLayout (~> 2.0.5)
+  - ReactiveCocoa (~> 2.4.7)
+
+SPEC CHECKSUMS:
+  FXForms: ae90610432a0a9cbb71e0180f202d0fff375881f
+  ObjectiveSugar: f48793f5902c77cfc02a4ce46d2e8ecddcad4dc2
+  PureLayout: 63a3257320223e8edddcd3afb407445f85a6bf74
+  ReactiveCocoa: 313fc53cc9aeb2bbbc3f5f13c7eac16478d9af8f
+
+COCOAPODS: 0.36.0
